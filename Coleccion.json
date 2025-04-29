@@ -1,0 +1,66 @@
+[
+  {
+    "artista": "The Beatles",
+    "titulo": "Abbey Road",
+    "año": 1969,
+    "genero": "Rock",
+    "cantidad_de_pistas": 17,
+    "formato": "Vinilo",
+    "sello": "Apple Records",
+    "integrantes": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ]
+  },
+  {
+    "artista": "Pink Floyd",
+    "titulo": "The Dark Side of the Moon",
+    "año": 1973,
+    "genero": "Rock Progresivo",
+    "cantidad_de_pistas": 10,
+    "formato": "CD",
+    "sello": "Harvest",
+    "integrantes": [
+      "David Gilmour",
+      "Roger Waters",
+      "Richard Wright",
+      "Nick Mason"
+    ]
+  },
+  {
+    "artista": "Miles Davis",
+    "titulo": "Kind of Blue",
+    "año": 1959,
+    "genero": "Jazz",
+    "cantidad_de_pistas": 5,
+    "formato": "Vinilo",
+    "sello": "Columbia",
+    "integrantes": [
+      "Miles Davis",
+      "John Coltrane",
+      "Cannonball Adderley",
+      "Bill Evans",
+      "Paul Chambers",
+      "Jimmy Cobb"
+    ]
+  },
+  {
+    "artista": "Radiohead",
+    "titulo": "OK Computer",
+    "año": 1997,
+    "genero": "Alternative Rock",
+    "cantidad_de_pistas": 12,
+    "formato": "Digital",
+    "sello": "Parlophone",
+    "integrantes": [
+      "Thom Yorke",
+      "Jonny Greenwood",
+      "Colin Greenwood",
+      "Ed O'Brien",
+      "Philip Selway"
+    ]
+  }
+  // Aquí podrías añadir más objetos de discos
+]
